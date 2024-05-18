@@ -1,0 +1,40 @@
+.top-bg
+{
+    background-color:#1F618D ;
+    color: aliceblue;
+}
+.title-top
+{
+    color: blue;
+    font-family:Bell MT;
+    font-size: 45px;
+}
+.bg-nav{
+    background-color:#92caf0 ; 
+}
+.navbar-nav
+{
+    color: aliceblue;
+}
+.nav-item:hover
+{
+    /* padding: 5px; */
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+li .nav-text
+{
+   font-weight: bold;
+   color: black;
+   font-size: 18px;
+
+}
+.ncard
+{
+    height: 400px;
+}
+.newRow
+{
+    height: 100px;
+    background-color: rgb(63, 88, 88);
+}
