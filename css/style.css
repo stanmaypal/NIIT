@@ -38,3 +38,19 @@ li .nav-text
     height: 100px;
     background-color: rgb(63, 88, 88);
 }
+.icon
+{
+    font-size: 30px;
+}
+/* .icon:hover{
+    color: aqua;
+} */
+.fa-whatsapp:hover{
+    color: green;
+}
+.cnt-text
+{
+    text-shadow: 2px 3px 4px;
+    color:#1F618D;
+    font-family:'Times New Roman', Times, serif;
+}
